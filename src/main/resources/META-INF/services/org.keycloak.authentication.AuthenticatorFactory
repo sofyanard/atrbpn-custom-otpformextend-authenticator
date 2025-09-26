@@ -1,0 +1,2 @@
+com.atrbpn.keycloak.authenticator.otpformextend.CustomPreAuthenticationFactory
+com.atrbpn.keycloak.authenticator.otpformextend.CustomPostAuthenticationFactory
